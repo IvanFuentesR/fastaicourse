@@ -9,7 +9,8 @@ pip install gradio
 pip install fastai
 ```
 
-After that you can run the project with:
+# Run
+After you install the required packages you can run the project with:
 
 ```
 python components.py
